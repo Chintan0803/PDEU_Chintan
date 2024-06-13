@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is edited on 13/06 at 16:15
+=======
+this is edited on 13/06 at 16:13 
+>>>>>>> e9cff2e3b3c8b5fb7a2462eb97f9455009d01c54
